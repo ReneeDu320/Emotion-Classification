@@ -7,7 +7,7 @@ Authors: Rico Pojol, Kelsey Fauntleroy, Shuang Du, Minhui Yu
 The goal of this project is to be able to classify the emotion behind a given text, so a computer or another person can take an appropriate action based on the resulting emotion from the classifier. We used a dataset of pre-processed English Twitter posts, each already labeled with one of six emotions: sadness, anger, love, joy, fear, and surprise. The dataset was already split into test, training, and validation sets. To classify the dataset, we tried different classical supervised machine learning models as well as the BERT NLP model, and calculated the accuracy on the test set for each model.
 
 ## Data Source
-The dataset used in this project is "Fake or Real News" from Kaggle. Link to the dataset: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
+Link to the dataset: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
 
 ## Data Processing
 Transform raw text [code](final.ipynb)
